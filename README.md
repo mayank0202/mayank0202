@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Mayank Sharma</h1>
-<h3 align="center">Devops/Cloud Engineer | AWS Certified | Azure Certified | GCP Certified </h3>
+<h3 align="center">Devops/Cloud Engineer | AWS Certified | Terraform Certified | Azure Certified | GCP Certified </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank0202" alt="mayank0202" /></a> </p>
 
